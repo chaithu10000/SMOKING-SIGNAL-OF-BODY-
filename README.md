@@ -36,5 +36,5 @@ Ensure you have the following software installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/SmokeSmart.git
+   git clone https://github.com/chaithu10000/SMOKING-SIGNAL-OF-BODY-.git
    cd SmokeSmart
